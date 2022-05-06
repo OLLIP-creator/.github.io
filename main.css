@@ -1,0 +1,13 @@
+:root {
+
+    /*Background settings*/
+
+    --app-background: url('https://i.ibb.co/56MpHsk/330f5914a7a017799a32d13fa07ff8fb.webp'); /*App background*/
+    --app--bg-opacity: 0.40; /*App background opacity*/
+    --background-image: url('https://i.ibb.co/56MpHsk/330f5914a7a017799a32d13fa07ff8fb.webp'); /*Main background image*/
+    --bg-blur: 0px; /*Main background blur*/
+    --bg-opacity: 0; /*Main background opacity*/
+    --popout-bg: url('https://i.ibb.co/c87gpRV/pngwing-com.png'); /*Background for popouts*/
+    --popout-blur: 0px; /*Popout background blur*/
+    --popout-opacity: 0; /*Popout background opacity*/
+}
