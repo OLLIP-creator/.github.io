@@ -1,4 +1,9 @@
 :root {
+  --background-image: url(https://clearvision.gitlab.io/images/sapphire.jpg);
+}
+
+/*
+:root {
 
     /*Background settings*/
 
@@ -11,3 +16,4 @@
     --popout-blur: 0px; /*Popout background blur*/
     --popout-opacity: 0; /*Popout background opacity*/
 }
+*/
